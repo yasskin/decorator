@@ -1,0 +1,14 @@
+img.about {
+  float: right;
+  width: 800px;
+}
+
+img.remodel {
+  float: left;
+  width: 370px;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
