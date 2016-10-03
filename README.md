@@ -1,7 +1,3 @@
-# Decorator
-
-_An Epicodus student project to practice CSS Git and HTML_
-
 # _Decorator_
 
 #### _An Epicodus student project to practice CSS Git and HTML_
@@ -10,7 +6,7 @@ _An Epicodus student project to practice CSS Git and HTML_
 
 ## Description
 
-* _This is a simple Web application that should run in modern browsers_
+_This is a simple Web application that should run in modern browsers_
 
 ## Known Bugs
 
